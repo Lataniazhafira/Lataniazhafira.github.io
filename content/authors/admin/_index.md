@@ -77,7 +77,7 @@ education:
       - Fisika
       - Kimia
       - Matematika
-  - area: BSc Artificial Intelligence
+  - area: Wirausaha Merdeka
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
