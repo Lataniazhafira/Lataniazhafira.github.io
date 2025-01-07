@@ -4,7 +4,7 @@ title: Example Talk
 event: Hugo Blox Builder Conference
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
 address:
   street: jl Melati
   city: Semarang
