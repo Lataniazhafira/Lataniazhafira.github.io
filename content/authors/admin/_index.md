@@ -1,6 +1,6 @@
 ---
 # Display name
-title: student
+title: Latania Zhafira
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -11,7 +11,7 @@ last_name: Zhafira
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Game Developer
+role: Mahasiswa
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: RPL
+# Prodi to display in Biography blox
+Program Studi:
+  - name: Rekayasa Perangkat Lunak
     url: https://openai.com/
 
 # Social network links
@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Back End Developer
+  
 
 education:
   - area: Rekayasa Perangkat Lunak
@@ -142,11 +142,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Indonesia
     percent: 100
-  - name: Chinese
+  - name: Inggris
     percent: 75
-  - name: Portuguese
+  - name: Jerman
     percent: 25
 
 # Awards.
@@ -182,4 +182,4 @@ awards:
 ---
 
 ## About Me
-loremipsum
+Nama saya Latania Zhafira mahasiswa program studi S1 Rekayasa Perangkat Lunak
