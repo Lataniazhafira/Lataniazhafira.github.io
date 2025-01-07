@@ -52,26 +52,31 @@ interests:
   
 
 education:
-  - area: Rekayasa Perangkat Lunak
+  - area: S1 Rekayasa Perangkat Lunak
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      
+      Course included:
+      - Algoritma dan Struktur Data
+      - Machine Learning
+      - Kecerdasan Buatan
+      - Pemrograman Berorientasi Objek
+    
+  - area: MA Teknosains
+    institution: MA Al - Mu'min Muhammadiyah Temanggung
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 87/100
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Biologi
+      - Fisika
+      - Kimia
+      - Matematika
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -95,18 +100,6 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -128,18 +121,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: nonton film
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 80
+        icon: 
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: jalan - jalan
         description: ''
-        percent: 80
-        icon: camera
+        percent: 60
+        icon: orang sedang berjalan
 
 languages:
   - name: Indonesia
