@@ -78,7 +78,7 @@ education:
       - Matematika
   - area: Wirausaha Merdeka
     institution: Universitas Dian Nuswantoro
-    date_start: 2023-8-7
+    date_start: 2023-08-07
     date_end: 2023-12-10
     summary: |
       GPA: 3.4/4.0
