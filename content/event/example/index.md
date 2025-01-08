@@ -8,7 +8,7 @@ location: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
 address:
   street: jl Melati
   city: Semarang
-  region: CA
+  region: Ngaliyan
   postcode: '94305'
   country: Indonesia
 

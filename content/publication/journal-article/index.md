@@ -1,11 +1,13 @@
 ---
-title: "An example journal article"
+title: "Analisi Kebutuhan Perangkat Lunak"
 authors:
-- admin
-- Robert Ford
+- Latania Zhafira
+- Maulany citra Pandini
+- Adi Fajar Saputra
+- David Setiawan
+- M Yanfaunnas
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Anggota
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
