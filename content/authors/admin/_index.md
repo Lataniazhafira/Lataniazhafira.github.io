@@ -46,16 +46,16 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
+Minat:
   - Artificial Intelligence
   - Back End Developer
   
 
-education:
+Pendidikan:
   - area: S1 Rekayasa Perangkat Lunak
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-9-11
+    date_end: sampai selesai
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
       
@@ -78,9 +78,9 @@ education:
       - Kimia
       - Matematika
   - area: Wirausaha Merdeka
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Universitas Dian Nuswantoro
+    date_start: 2023-8-7
+    date_end: 2023-12-10
     summary: |
       GPA: 3.4/4.0
       
