@@ -50,7 +50,6 @@ Minat:
   - Artificial Intelligence
   - Back End Developer
   
-
 education:
   - area: S1 Rekayasa Perangkat Lunak
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
