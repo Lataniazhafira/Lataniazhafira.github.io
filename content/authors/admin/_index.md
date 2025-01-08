@@ -51,7 +51,7 @@ Minat:
   - Back End Developer
   
 
-Pendidikan:
+education:
   - area: S1 Rekayasa Perangkat Lunak
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     date_start: 2022-9-11
