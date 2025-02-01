@@ -4,7 +4,7 @@
 
 # Default language
 id:
-  languageCode: id_IDN
+  languageCode: id_ID
   # Uncomment for multi-lingual sites, and move English content into `id` sub-folder.
   #contentDir: content/id
 
