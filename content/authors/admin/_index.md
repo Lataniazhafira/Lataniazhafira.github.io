@@ -137,9 +137,9 @@ languages:
   - name: Indonesia
     percent: 100
   - name: Inggris
-    percent: 75
-  - name: Jerman
-    percent: 25
+    percent: 50
+  - name: Jepang
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
