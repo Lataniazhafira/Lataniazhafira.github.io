@@ -174,4 +174,4 @@ awards:
 ---
 
 ## About Me
-Nama saya Latania Zhafira mahasiswa program studi S1 Rekayasa Perangkat Lunak
+Nama saya Latania Zhafira mahasiswa program studi S1 Rekayasa Perangkat Lunak saya suka memasak kaki dragon 
